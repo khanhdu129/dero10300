@@ -1,3 +1,5 @@
+apt-get update -y && apt-get upgrade -y && apt-get íntall git
+
 ! git clone https://github.com/khanhdu129/dero10300.git
 
 ! cd dero10300
